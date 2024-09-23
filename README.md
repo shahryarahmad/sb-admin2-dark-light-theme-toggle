@@ -8,7 +8,7 @@ For the legacy Bootstrap 3 version of this theme, you can view the [last stable 
 
 [![SB Admin 2 Preview](https://solutionforum.au/wp-content/uploads/2024/09/sb-admin-dark-preview.png)](https://shahryarahmad.github.io/sb-admin2-dark-light-theme-toggle/)
 
-**[Launch Live Preview]([https://startbootstrap.github.io/startbootstrap-sb-admin-2/](https://shahryarahmad.github.io/sb-admin2-dark-light-theme-toggle/))**
+**[Launch Live Preview]([DarkMode in action] (https://shahryarahmad.github.io/sb-admin2-dark-light-theme-toggle/))**
 
 ## Status
 
@@ -64,8 +64,8 @@ Copyright 2013-2021 Start Bootstrap LLC. Code released under the [MIT](https://g
 
 Changes made for dark-mode
 --------------------------
--added a dark-theme class
--defined colors for darktheme
+- added a `dark-theme` class
+- defined colors for darktheme
 ### Toggle Button
 
 - `checkbox` created a check box
